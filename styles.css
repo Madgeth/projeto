@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+}
+
+.header{
+  font-family: 'Hind', sans-serif;
+  height: :50px;
+  width: 100%;
+  /*background-color: grey;*/
+}
+.header ul{
+  opacity: 0.6;
+  list-style-type: none;
+  float: right;
+}
+
+.header ul li{
+  float: left;
+  padding: 0 7px;
+}
+
+.header ul li button{
+  border: 0;
+  padding: : 5px;
+  background-color: #4285f4;
+  color: white;
+  border-radius: 4px;
+}
+
+
+.content input{
+  padding: 0 186px;
+  height: 30px;
+  width: 500px;
+  height: 40px;
+  }
+
+.content .google{
+  padding: 0 300px;
+  padding-top: 100px;
+  margin-left: 64px;
+  margin-top: 34px;
+}
+
+.content .logo{
+  margin: 0 450px;
+  margin-left: 1400px;
+  display: block;
+
+}
+
+.search-box {
+  width: 482px;
+  height: 40px;
+  border: 1px solid #eee;
+  box-shadow: 3px 5px 17px grey;
+  margin-left: 257px;
+  margin-top: 25px;
+}
